@@ -10,25 +10,25 @@ Team Members :
 - (MD) A200B4KX4341 – Tiara Fitra Ramadhani Siregar – Diponegoro University
 
 ## Project Description
-PlantPal is an AI-powered solution that will address agricultural challenges through correct plant species identification, diagnose diseases from just one picture with tailored health insights, and prescribed treatments. This smart assistant makes the hassle of plant care simpler by providing recommendations, step-by-step instructions, and links to relevant products. The PlantPal app expands user interaction in the plant care ecosystem through its community forums.
+PlantPal is an AI-powered solution that addresses agricultural challenges through correct plant disease diagnosis from just a picture, with tailored health insights and prescribed treatments. This smart assistant makes the hassle of plant care simpler by providing recommendations, from prevention to treatment, step-by-step instructions, and links to relevant products, PlantPal also provides information about plants, plant diseases, and even cultivation tips. PlantPal expands user interaction in the plant care ecosystem through its community forums, and reminders or activity notifications.
 
 ### Key Features
-- **Home Page** : The main page that contains navigation to all features that the app provided.
-- **Plant Diagnosis** : A feature that can help user check their plant's health or diagnose the disease by image taken from their smartphone.
-- **Plants** : A feature that provided information about the plants that listed in the app, including the cultivation tips and some read links.
-- **Diseases** : A feature that provided information about the plant diseases, including the description, the prevention and treatment, and the medicines that suitable for the disease, with links to the relevant products.
-- **User Plant** : A feature for user to save or bookmark the plants, and personalize plant care.
-- **Discussion Forum** : A feature that facilitated discussion forums for all users, so they can communicate with each other. User may create a post, comment and like a post.
+- **Home Page**: The main page that contains navigation to all features that the app provides.
+- **Plant Diagnosis**: A feature that can help user check their plant's health or diagnose the disease by image taken from their smartphone.
+- **Plants**: A feature that provides information about the plants listed in the app, including the cultivation tips and some read links.
+- **Diseases**: A feature that provides information about the plant diseases, including the description, the prevention and treatment, and the medicines that are suitable for the disease, with links to the relevant products.
+- **User Plant**: A feature for user to save or bookmark the plants, and personalize plant care.
+- **Discussion Forum**: A feature that facilitates discussion forums for all users, so they can communicate with each other. Users may create a post, comment, and like a post.
 
 
 ## Main Technologies Used
-- Machine Learning: TensorFlow, Keras, OpenCV, Jupyter Notebook, Google Colaboratory, Gooble Colab Vritual Machine, Kaggle
+- Machine Learning: TensorFlow, Keras, OpenCV, Jupyter Notebook, Google Colaboratory, Gooble Colab Virtual Machine, Kaggle
 - Cloud Computing :
-  - Google Cloud Service : Cloud Run, Cloud Firestore Native Mode, Cloud SQL, Cloud Storage
+  - Google Cloud Service: Cloud Run, Cloud Firestore Native Mode, Cloud SQL, Cloud Storage
   - Backend Development: Node.js, Express.js, Tensorflow.js
   - Database: MySQL, Firestore
-  - Testing & Documentation : Postman
-  - CI/CD : Github Action
+  - Testing & Documentation: Postman
+  - CI/CD: Github Action
 - Mobile App Development: Android Studio with Native Kotlin, Retrofit, Room
 
 
